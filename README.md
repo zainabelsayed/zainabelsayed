@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabelsayed&count_private=true&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="zainabelsayed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabelsayed&count_private=true&show_icons=true&theme=gruvbox&locale=en" alt="zainabelsayed" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabelsayed&count_private=true&show_icons=true&theme=gruvbox&locale=en" alt="zainabelsayed" /></p> -->
